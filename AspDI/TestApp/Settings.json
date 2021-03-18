@@ -1,0 +1,17 @@
+﻿[
+  {
+    "Link": "Rates/USD/EUR",
+    "StatusCode": "OK",
+    "ExpectedAnswer": null
+  },
+  {
+    "Link": "Rates/UAH/EUR",
+    "StatusCode": "OK",
+    "ExpectedAnswer": null
+  },
+  {
+    "Link": "Rates/Uxvcz/EvxcUR",
+    "StatusCode": "BadRequest"
+  }
+
+]
